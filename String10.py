@@ -7,5 +7,5 @@ def main(s):
         str: answer
     """
     
-    return s.index('d')
+    return s.find('x')
 print(main("salom dunyo"))
